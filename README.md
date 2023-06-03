@@ -1,1 +1,1 @@
-# Star Wars Movie Guid portfolio
+# Star Wars Movie Guide portfolio
